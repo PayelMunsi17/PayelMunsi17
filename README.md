@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **mirajmunshi1177@gmail.com**
 
-- ⚡ Fun fact **I think i am a comedian**
+- ⚡ Fun fact **I am also a Gamer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
