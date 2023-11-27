@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/m1raj69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m1raj69" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/payelmunsi69?mibextid=2jq9oc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/payelmunsi69?mibextid=2jq9oc" height="30" width="40" /></a>
+<a href="https://fb.com/payelmunsi69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="payelmunsi69" height="30" width="40" /></a>
 <a href="https://instagram.com/md_prottoy_ahmed_miraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_prottoy_ahmed_miraj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/payel_munsi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="payel_munsi" height="30" width="40" /></a>
 <a href="https://discord.gg/SRJpZH8Y" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SRJpZH8Y" height="30" width="40" /></a>
